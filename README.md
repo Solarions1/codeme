@@ -81,8 +81,9 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
    3. Update information in [Pages](https://github.com/Solarions1/codeme/tree/master/pages)
    4. Update docs page for the website on [codeme](https://solarions1.github.io/codeme/)
    5. Delete files in [data](https://github.com/Solarions1/codeme/blob/master/data)
-      ======== Changes made to the repository after the push main ========
+#### ======== Changes made to the repository after the push main ========
       1. Update [index.html](https://github.com/Solarions1/codeme/blob/master/index.html) 
+      2. Update [Readme.md]
 
 
 
