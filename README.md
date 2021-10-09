@@ -75,7 +75,7 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
 
 ### Change repository hitory
 
-## Name: Manuel - *Repository changes:* Codeme [Repository](https://github.com/Solarions1/codeme) *Date:* 10/09/2021  
+## *Name:* Manuel - *Repository changes:* Codeme, [Repository](https://github.com/Solarions1/codeme) *Date:* 10/09/2021  
    1. Change README.MD
    2. Update and add new data on [index.html](https://github.com/Solarions1/codeme/blob/master/index.html)
    3. Update information in [Pages](https://github.com/Solarions1/codeme/tree/master/pages)
@@ -85,6 +85,13 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
       1. Update [index.html] 
       2. Update [Readme.md]
 
+## *Name:* Manuel - *Repository changes:* QSafe, [Repository](https://github.com/Solarions1/QSafe) *Date:* 10/09/2021
+   1. Update README File 
+   2. Update package.json
+   3. Fix [index.js](https://github.com/Solarions1/QSafe/blob/master/index.js)
+   4. Add pages on [views](https://github.com/Solarions1/QSafe/tree/master/views)
+   5. Add pages on [public](https://github.com/Solarions1/QSafe/tree/master/public)
+   6. Add css file
 
 
 
