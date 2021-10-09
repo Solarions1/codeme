@@ -1,0 +1,25 @@
+{
+  "name": "codebyte.re",
+  "version": "1.0.0",
+  "description": "codebytere's personal website",
+  "main": "js/cli.js",
+  "scripts": {
+    "dev": "http-server -o",
+    "format": "prettier --write 'src/*.js'",
+    "lint": "prettier --check 'src/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Solarions1/codeme.git"
+  },
+  "author": "Shelley Vohr <shelley.vohr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Solarions1/codeme.git"
+  },
+  "homepage": "https://github.com/Solarions1/codeme.git#readme",
+  "devDependencies": {
+    "http-server": "^0.12.1",
+    "prettier": "^2.0.2"
+  }
+}
