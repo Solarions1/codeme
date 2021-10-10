@@ -91,7 +91,12 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
    3. Fix [index.js](https://github.com/Solarions1/QSafe/blob/master/index.js)
    4. Add pages on [views](https://github.com/Solarions1/QSafe/tree/master/views)
    5. Add pages on [public](https://github.com/Solarions1/QSafe/tree/master/public)
-   6. Add css file
+   6. Add css file on about page [update files](https://github.com/Solarions1/QSafe/tree/master/public/data/about)
+   7. Add bootstrap files [update files](https://github.com/Solarions1/QSafe/tree/master/public/data/about)
+   8. Update file index.html on [public](https://github.com/Solarions1/QSafe/blob/master/public/index.html)
+#### ========  Changes made to the repository after the push main ==========
+      1. Update README
+      2. Update Index.js and link about page
 
 
 
