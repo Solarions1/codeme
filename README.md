@@ -74,6 +74,9 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
 
 
 ### Change repository hitory
+   
+   ##### Last update data
+      Monday 11,  10 - 2021 Passig
 
 ## *Name:* Manuel - *Repository changes:* Codeme, [Repository](https://github.com/Solarions1/codeme) *Date:* 10/09/2021  
    1. Change README.MD
@@ -97,6 +100,16 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
 #### ========  Changes made to the repository after the push main ==========
       1. Update README
       2. Update Index.js and link about page
+
+## *Name:* QSafe - *Repository changes :* [Repository](https://github.com/Solarions1/instascript) *Date:* 10/11/2021
+   1.  Create new repository
+   2. Update README file
+   3. Create netcore
+   4. Add [Core](https://github.com/Solarions1/instascript/Core) scripts
+   5. Add [instagram](https://github.com/Solarions1/instascript/instagram.py) script  
+   6. Update README file
+   7. Change instances 
+
 
 
 
