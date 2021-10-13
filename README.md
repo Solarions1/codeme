@@ -76,7 +76,7 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
 ### Change repository hitory
    
    ##### Last update data
-      Monday 11,  10 - 2021 Passig
+      Wednesday,  13 - 10 - 2021 Passig 18:54
 
 ## *Name:* Manuel - *Repository changes:* Codeme, [Repository](https://github.com/Solarions1/codeme) *Date:* 10/09/2021  
    1. Change README.MD
@@ -111,5 +111,10 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
    7. Change instances 
 
 
+## *Name:* scandatabrowser - *Repository changes:* [Repository](https://github.com/Solarions1/scandatabrowser) *Date:* 10/13/2021
+   1. Add complement js
+   2. Add document js
+   3. Add new complement for QSafe web
+   4. Fix index
 
 
