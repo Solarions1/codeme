@@ -8,6 +8,7 @@ Public repository where I will be adding skills and updating changes in my proje
 
 ## What am I looking for with this site and its public repository?
 
+
 This page is designed in Javascript using ejs, the main purpose of this page is to demonstrate my skills as a developer, this is just an example and is not completely accurate as I am constantly learning more, this in order to improve my skills and abilities.
 
 Yes, this repository is public because in it are my skills, knowledge and some other things, anyone can enter and copy the code, but it is better to teach how to use it, right? in that case a little further down I put how to use it and or copy it, in case of urgency.
@@ -74,9 +75,10 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
 
 
 ### Change repository hitory
+#### [Status page](https://qsafecybersecurity.instatus.com/)
    
    ##### Last update data
-      Wednesday,  13 - 10 - 2021 Passig 18:54
+    14 - 10 - 2021 Passig 13:51
 
 ## *Name:* Manuel - *Repository changes:* Codeme, [Repository](https://github.com/Solarions1/codeme) *Date:* 10/09/2021  
    1. Change README.MD
@@ -117,4 +119,20 @@ The `Access Token`, on the other hand, is sent by the Client to the Resource Ser
    3. Add new complement for QSafe web
    4. Fix index
 
+## *Name:* QSafe - *Repository changes:* QSafe, [Repository](https://github.com/Solarions1/QSafe) *Date:* 10/14/2021
+   1. Add Status page 
+   2. Fix status page in pages
+   3. Delete status.html
+   4. Create monitor 
+   5. Add link page [status](https://qsafecybersecurity.instatus.com/)
+   6. Update index [public](https://github.com/Solarions1/QSafe/blob/master/public/index.html)
+   7. Update Readme file
+
+## *Name:* Codeme - *Repository changes:* Codeme, [Repository](https://github.com/Solarions1/codeme) *Date:* 10/14/2021
+   1. Fix CLI
+   2. Update [Shell](https://github.com/Solarions1/codeme/blob/master/src/shell.js) file
+   3. Update Readme file
+   4. Add Status cli command
+#### Command added
+      status
 
