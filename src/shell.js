@@ -90,6 +90,11 @@ class Shell {
         const cmd = input[0].toLowerCase();
         const args = input[1];
 
+        if (cmd === 'status'){
+          this.updateHistory(cmd);
+          window.location.href="https://qsafecybersecurity.instatus.com/"
+          this.clearConsole();
+        }
         if (cmd === 'clear') {
           this.updateHistory(cmd);
           this.clearConsole();
@@ -98,7 +103,7 @@ class Shell {
           this.resetPrompt(term, prompt);
           $('.root').last().html(localStorage.directory);
         } else {
-          this.term.innerHTML += 'Error: command not recognized';
+          //this.term.innerHTML += 'Error: command not recognized';
           this.resetPrompt(term, prompt);
         }
         evt.preventDefault();
